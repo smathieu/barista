@@ -45,6 +45,7 @@ For more details, please see the the README file bundled with it.}
     "lib/barista/integration/rails2.rb",
     "lib/barista/integration/rails3.rb",
     "lib/barista/integration/sinatra.rb",
+    "lib/barista/tasks.rb",
     "lib/barista/rake_task.rb",
     "lib/barista/server.rb",
     "lib/barista/tasks/barista.rake",
